@@ -1,6 +1,6 @@
 # Otus
 Training iOS-projects
 
-In this repository you can get acquainted with training iOS-projects (swift, UIKit and etr.).
+Here you can get acquainted with my training iOS-projects (swift, UIKit and etr.).
 
-I would appreciate for any advaces:)
+I would appreciate for any advices:)
